@@ -12,6 +12,11 @@
     border: 10  blue;
     padding
 }
+#submit {
+   position: relative;
+   left: 75px;
+   bottom: 10px;
+}
 
 
 
